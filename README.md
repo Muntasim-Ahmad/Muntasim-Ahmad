@@ -54,7 +54,9 @@ I love crafting clean, maintainable code — from backend APIs to interactive fr
 
 ### 🌍 Connect With Me
 📧 **Email:** [muntasim907@gmail.com](mailto:muntasim907@gmail.com)  
-🐙 **GitHub:** [https://github.com/Muntasim-Ahmad](https://github.com/Muntasim-Ahmad)
+
+🐙 **GitHub:** [https://github.com/Muntasim-Ahmad](https://github.com/Muntasim-Ahmad)  
+
 💼 **LinkedIn:** [linkedin.com/in/muntasim-kumar/](https://www.linkedin.com/in/muntasim-kumar/)
 
 ---
