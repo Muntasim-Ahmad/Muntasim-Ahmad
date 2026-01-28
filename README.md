@@ -50,14 +50,11 @@ I love crafting clean, maintainable code — from backend APIs to interactive fr
 🎓 **Bachelor of Computer Applications (BCA)** — *Expected December 2024*  
 📍 GDC Anantnag, Kashmir University  
 
-🎓 **Master of Arts (MA) in English)** — *March 2022*  
-📍 Kashmir University  
-
 ---
 
 ### 🌍 Connect With Me
 📧 **Email:** [muntasim907@gmail.com](mailto:muntasim907@gmail.com)  
-🐙 **GitHub:** [github.com/muntasim907](https://github.com/muntasim907) *(replace with your GitHub username)*  
+🐙 **GitHub:** [https://github.com/Muntasim-Ahmad](https://github.com/Muntasim-Ahmad)
 
 ---
 
